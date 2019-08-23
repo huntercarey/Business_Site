@@ -13,7 +13,7 @@ body{
 
 .header a{
     background-color:#db9833;
-    border-radius: 20%;
+    border-radius: 40%;
     border-style: dashed;
     
 }
@@ -37,6 +37,7 @@ h1{
     color: #db9833;
     font-size: 55px;
     text-align: center;
+    font-family: 'Anton', sans-serif;
 
 }
 
@@ -45,7 +46,8 @@ img{
     margin: 0 auto;
     border-style: double;
     border-color: #db9833;
-    border-radius: 20%;
+    border-radius: 40%;
+    
 }
 
 .about{
