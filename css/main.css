@@ -1,0 +1,61 @@
+p{
+    font-size: 20px;
+    color: #db9833;
+}
+.paragraphs{
+    text-align: left;
+}
+
+body{
+    background-color: #2a6592;
+    margin: 0;
+}
+
+.header a{
+    background-color:#db9833;
+    border-radius: 20%;
+    border-style: dashed;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #2a6592;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+a:hover{
+    text-decoration: line-through wavy #2a6592 ;
+    border-style: dotted;
+    font-size: 40px;
+}
+
+h1{
+    color: #db9833;
+    font-size: 55px;
+    text-align: center;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    border-style: double;
+    border-color: #db9833;
+    border-radius: 20%;
+}
+
+.about{
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.home{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
