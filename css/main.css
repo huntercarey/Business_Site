@@ -1,6 +1,8 @@
 p{
     font-size: 20px;
     color: #db9833;
+    position: relative;
+    margin: 0 20% 0 20%;
 }
 .paragraphs{
     text-align: left;
@@ -12,7 +14,7 @@ body{
 }
 
 .header a{
-    background-color:#db9833;
+    background-color: #db9833;
     border-radius: 40%;
     border-style: dashed;
     
@@ -24,6 +26,7 @@ a{
     padding: 10px 10px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     
 }
 
@@ -47,7 +50,6 @@ img{
     border-style: double;
     border-color: #db9833;
     border-radius: 40%;
-    
 }
 
 .about{
