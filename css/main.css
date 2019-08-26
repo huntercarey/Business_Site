@@ -2,7 +2,7 @@ p{
     font-size: 20px;
     color: #db9833;
     position: relative;
-    margin: 0 20% 0 20%;
+    margin:0 20%;
 }
 .paragraphs{
     text-align: left;
@@ -15,7 +15,7 @@ body{
 
 .header a{
     background-color: #db9833;
-    border-radius: 40%;
+    /* border-radius: 40%; */
     border-style: dashed;
     
 }
@@ -23,15 +23,17 @@ body{
 a{
     text-decoration: none;
     color: #2a6592;
-    padding: 10px 10px;
+    padding:10px 10px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     
 }
 
+
+
 a:hover{
-    text-decoration: line-through wavy #2a6592 ;
+    text-decoration: overline underline wavy #2a6592 ;
     border-style: dotted;
     font-size: 40px;
 }
@@ -49,17 +51,21 @@ img{
     margin: 0 auto;
     border-style: double;
     border-color: #db9833;
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .about{
+    
     position: fixed;
     top: 0;
     right: 0;
+    border-top-right-radius: 50%;
 }
 
 .home{
+    
     position: fixed;
     top: 0;
     left: 0;
+    border-top-left-radius: 50%;
 }

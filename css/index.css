@@ -1,0 +1,15 @@
+#businessName{
+/* text-align: center; */
+}
+
+#businessLogo{
+display: block;
+margin: 0 auto;
+border-radius: 50%;
+}
+
+#businessDescription{
+    /* text-align: center; */
+    /* margin: 20px */
+
+}
