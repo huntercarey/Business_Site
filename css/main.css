@@ -51,7 +51,8 @@ img{
     margin: 0 auto;
     border-style: double;
     border-color: #db9833;
-    border-radius: 20%;
+    border-radius: 14%;
+    padding: 2px;
 }
 
 .about{
@@ -68,4 +69,17 @@ img{
     top: 0;
     left: 0;
     border-top-left-radius: 50%;
+}
+
+span{
+    font-size: 10pt;
+    margin:0 10% 0 38%;
+}
+
+h2{
+    text-decoration: underline #db9833 solid;
+    color:#db9833;
+    font-weight: bold;
+    /* margin: 2% 10% 0 42%; */
+    text-align: center;
 }
