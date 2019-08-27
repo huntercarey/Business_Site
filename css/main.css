@@ -4,9 +4,9 @@ p{
     position: relative;
     margin:0 20%;
 }
-.paragraphs{
+/* .paragraphs{
     text-align: left;
-}
+} */
 
 body{
     background-color: #2a6592;
@@ -33,9 +33,10 @@ a{
 
 
 a:hover{
-    text-decoration: overline underline wavy #2a6592 ;
+    /* text-decoration: overline underline wavy #2a6592; */
     border-style: dotted;
-    font-size: 40px;
+    /* font-size: 40px; */
+    border-radius: 20%;
 }
 
 h1{
